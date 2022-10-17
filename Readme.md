@@ -9,11 +9,10 @@
 
 # 视频课程是否免费？
 **是的。完全免费。**
-如需访问视频课程，请访问:[http://01ketang.cc](http://01ktang.cc/) 获取相关地址.
+如需访问视频课程，请访问:[https://study.163.com/course/courseMain.htm?courseId=1210127448&share=2&shareId=1017884735](https://study.163.com/course/courseMain.htm?courseId=1210127448&share=2&shareId=1017884735) 获取相关地址.
 
 # 联系我
-网站：http://01ketang.cc/about
-课程：http://01ketang.cc/xnet-tiny
+课程：https://study.163.com/course/courseMain.htm?courseId=1210127448&share=2&shareId=1017884735
 邮箱：527676163#qq.com (#换成@)
 
 # 开发工具
