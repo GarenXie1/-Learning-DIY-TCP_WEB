@@ -29,6 +29,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fc65e580-d7a5-4f8d-a439-9d26d9dd6884" name="Default Changelist" comment="修改tcp缓存大小，去掉无用的网站">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +54,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/xnet_tiny_c0702/src/xnet_tiny" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/tongban/course/Learning-DIY-TCP_WEB&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\tongban\git\xnet_tiny\xnet_tiny_c0702\src\xnet_tiny" />
@@ -72,6 +70,7 @@
       <recent name="D:\tongban\git\xnet_tiny" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,41 +211,10 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改contact" />
     <MESSAGE value="修改tcp缓存大小，去掉无用的网站" />
     <option name="LAST_COMMIT_MESSAGE" value="修改tcp缓存大小，去掉无用的网站" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="803" y="157" width="1736" height="896" maximized="true" key="DiffContextDialog" timestamp="1595506838226">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="803" y="157" width="1736" height="896" maximized="true" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595506838226" />
-    <state x="151" y="97" key="MergeDialog" timestamp="1595575996077">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="151" y="97" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595575996077" />
-    <state x="845" y="406" width="425" height="268" key="MultipleFileMergeDialog" timestamp="1595576000957">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="845" y="406" width="425" height="268" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595576000957" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1595577345119">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1595577345119" />
-    <state x="746" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1595384886803">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="746" y="273" key="VcsDiffUtil.ChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595384886803" />
-    <state x="128" y="330" width="678" height="704" key="find.popup" timestamp="1595576485173">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="128" y="330" width="678" height="704" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595576485173" />
-    <state x="616" y="250" key="run.anything.popup" timestamp="1595385194740">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595385194740" />
   </component>
 </project>
