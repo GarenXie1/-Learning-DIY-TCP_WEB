@@ -18,3 +18,11 @@
 
 # 我的网站
 欢迎访问我的知识库：https://www.yuque.com/lishutong-docs
+
+
+
+# Garen 成功验证
+
+- 2024.7.31 验证 xnet_tiny_c0702 工程成功.
+- 具体验证步骤，请见 [TCP_IP_协议栈.md](TCP_IP_协议栈.md)
+

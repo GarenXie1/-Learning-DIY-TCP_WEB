@@ -28,7 +28,7 @@
 
 #include <stdint.h>
 
-#define XNET_CFG_NETIF_IP               {192, 168, 254, 2}  // 本机网卡IP
+#define XNET_CFG_NETIF_IP               {192, 168, 1, 2}  // 本机网卡IP
 #define XNET_CFG_PACKET_MAX_SIZE        1516        // 收发数据包的最大大小
 #define XARP_CFG_ENTRY_OK_TMO	        (5)         // ARP表项超时时间
 #define XARP_CFG_ENTRY_PENDING_TMO	    (1)          // ARP表项挂起超时时间
